@@ -1,53 +1,53 @@
 # No Code
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+No code 是编写安全可靠的程序的最佳解决方案。什么代码都不用写，也不需要进行部署。
 
-## Getting Started
+## 开发入门
 
-Start by not writing any code.
-
-```
-
-```
-
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
+先不要写任何代码。
 
 ```
 
 ```
 
-The possibilities are endless.
-
-### Building the Application
-
-Now that you have not done anything it's time to build your application:
+这只是一个示例程序，但是您可以想象它可以完成您想做到的任何事情。添加新的功能也很容易，例如:
 
 ```
 
 ```
 
-Yep. That's it. You should see the following output:
+它拥有无尽的可能性。
+
+### 编译应用
+
+至此，您还没有做任何事情。现在，您可以开始编译您的应用了：
 
 ```
 
 ```
 
-### Deploying
-
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
+是的，只需要以上这些步骤。此时您应该可以看到以下输出:
 
 ```
 
 ```
 
-It's that simple. And when it comes time to scale the application, all you have to do is:
+### 部署应用
+
+虽然您还是没有做任何事情，但您的应用已经可以进行部署了。运行以下命令，即可完全地部署您的应用：
 
 ```
 
 ```
 
-I know right?
+就是这样简单。当需要扩展此应用的时候，请执行以下操作：
 
-## Contributing
+```
 
-You don't.
+```
+
+就是这样！
+
+## 捐助
+
+不接受任何捐助。
